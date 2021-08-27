@@ -39,4 +39,17 @@
  2021-08-25 19:00:18.905 +04:30 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A' 
  2021-08-25 19:00:18.905 +04:30 [INF] Request finished HTTP/2 GET https://localhost:44373/swagger/favicon-32x32.png - - - 200 628 image/png 5.9689ms 
  2021-08-25 19:00:18.916 +04:30 [INF] Request finished HTTP/2 GET https://localhost:44373/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 40.6423ms 
+ 2021-08-25 19:04:32.537 +04:30 [INF] Application is starting 
+ 2021-08-25 19:04:32.713 +04:30 [INF] Application started. Press Ctrl+C to shut down. 
+ 2021-08-25 19:04:32.718 +04:30 [INF] Hosting environment: Development 
+ 2021-08-25 19:04:32.718 +04:30 [INF] Content root path: C:\Users\Ayub\source\repos\HotelListing\HotelListing 
+ 2021-08-25 19:04:32.724 +04:30 [INF] Request starting HTTP/2 GET https://localhost:44373/swagger/index.html - - 
+ 2021-08-25 19:04:32.790 +04:30 [INF] Request finished HTTP/2 GET https://localhost:44373/swagger/index.html - - - 200 - text/html;charset=utf-8 67.2806ms 
+ 2021-08-25 19:04:32.824 +04:30 [INF] Request starting HTTP/2 GET https://localhost:44373/_framework/aspnetcore-browser-refresh.js - - 
+ 2021-08-25 19:04:32.826 +04:30 [INF] Request finished HTTP/2 GET https://localhost:44373/_framework/aspnetcore-browser-refresh.js - - - 200 3086 application/javascript;+charset=utf-8 1.3643ms 
+ 2021-08-25 19:04:33.090 +04:30 [INF] Request starting HTTP/2 GET https://localhost:44373/swagger/v1/swagger.json - - 
+ 2021-08-25 19:04:33.097 +04:30 [INF] Request starting HTTP/2 GET https://localhost:44373/swagger/favicon-32x32.png - - 
+ 2021-08-25 19:04:33.102 +04:30 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A' 
+ 2021-08-25 19:04:33.103 +04:30 [INF] Request finished HTTP/2 GET https://localhost:44373/swagger/favicon-32x32.png - - - 200 628 image/png 6.0042ms 
+ 2021-08-25 19:04:33.132 +04:30 [INF] Request finished HTTP/2 GET https://localhost:44373/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 42.4794ms 
  
