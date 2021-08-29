@@ -19,7 +19,7 @@ namespace HotelListing
                 .WriteTo.File(
                     path: "log-.txt",
                     outputTemplate:
-                    "{Timestamp:yyyy-MM-dd HH:mm:ss.fff zzz} [{Level:u3}] {Message:lj} {NewLine} {Exception}",
+                    "{Timestamp:yyyy-MM-dd HH:mm:ss.fff zzz} [{Level:u3}] {Message:lj} {NewLine} {Exception} {NewLine}",
                     rollingInterval: RollingInterval.Day,
                     restrictedToMinimumLevel: LogEventLevel.Information).CreateLogger();
 
